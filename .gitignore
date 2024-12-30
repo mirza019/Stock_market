@@ -1,0 +1,17 @@
+# Ignore raw data files
+raw_data/
+raw_data/*.csv
+
+# Ignore generated reports
+reports/
+reports/*.txt
+reports/*.pdf
+
+# Ignore virtual environment
+venv/
+
+# Ignore temporary or system files
+*.pyc
+__pycache__/
+.DS_Store
+*.log
