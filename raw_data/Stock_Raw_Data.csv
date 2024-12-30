@@ -1,0 +1,411 @@
+Ticker,Name,Current Price,Previous Close,Price Change (%),Status,Market Cap,Daily Volume,Recommendation,Date
+TSLA,"Tesla, Inc.",430.6,421.06,2.27,Increase,1382251888640,70305618,Consider Selling (high demand),2024-12-24
+NVDA,NVIDIA Corporation,139.67,134.7,3.69,Increase,3420518350848,173851312,Consider Selling (high demand),2024-12-24
+META,"Meta Platforms, Inc.",599.85,585.25,2.49,Increase,1514315317248,9949208,Consider Selling (high demand),2024-12-24
+AAPL,Apple Inc.,255.27,254.49,0.31,Increase,3858610257920,37277559,Hold (high activity),2024-12-24
+MSFT,Microsoft Corporation,435.25,436.6,-0.31,Decrease,3236031627264,16193103,Hold (high activity),2024-12-24
+GOOGL,Alphabet Inc.,194.63,191.41,1.68,Increase,2389998043136,23670283,Hold (high activity),2024-12-24
+AMZN,"Amazon.com, Inc.",225.06,224.92,0.06,Increase,2366506008576,26051133,Hold (high activity),2024-12-24
+BRK-B,Berkshire Hathaway Inc. New,454.35,453.2,0.25,Increase,980028424192,3654266,No Action Needed,2024-12-24
+JNJ,Johnson & Johnson,145.27,144.47,0.55,Increase,349754982400,8718484,No Action Needed,2024-12-24
+V,Visa Inc.,317.22,317.71,-0.15,Decrease,614287015936,6469606,No Action Needed,2024-12-24
+WMT,Walmart Inc.,90.35,92.24,-2.05,Decrease,725816770560,20980248,Consider Buying (potential rebound),2024-12-24
+JPM,JP Morgan Chase & Co.,238.39,237.6,0.33,Increase,671148933120,8424443,No Action Needed,2024-12-24
+PG,Procter & Gamble Company (The),168.11,168.06,0.03,Increase,395905761280,6840567,No Action Needed,2024-12-24
+UNH,UnitedHealth Group Incorporated,506.34,500.13,1.24,Increase,465976623104,3498465,No Action Needed,2024-12-24
+HD,"Home Depot, Inc. (The)",392.45,392.6,-0.04,Decrease,389845319680,1510906,No Action Needed,2024-12-24
+MA,Mastercard Incorporated,528.96,528.03,0.18,Increase,485495898112,2270167,No Action Needed,2024-12-24
+BAC,Bank of America Corporation,43.89,44.17,-0.63,Decrease,336762699776,28379701,Hold (high activity),2024-12-24
+PFE,"Pfizer, Inc.",26.71,26.36,1.33,Increase,151365304320,34593129,Hold (high activity),2024-12-24
+KO,Coca-Cola Company (The),62.38,62.55,-0.27,Decrease,268720570368,9150204,No Action Needed,2024-12-24
+DIS,Walt Disney Company (The),111.4,112.03,-0.56,Decrease,201738715136,4448798,No Action Needed,2024-12-24
+CSCO,"Cisco Systems, Inc.",58.98,58.52,0.79,Increase,234903175168,16935967,Hold (high activity),2024-12-24
+NFLX,"Netflix, Inc.",911.45,909.05,0.26,Increase,389606572032,2200380,No Action Needed,2024-12-24
+INTC,Intel Corporation,20.2,19.52,3.48,Increase,87122599936,57810833,Consider Selling (high demand),2024-12-24
+XOM,Exxon Mobil Corporation,106.3,105.87,0.41,Increase,467198083072,9623703,No Action Needed,2024-12-24
+PEP,"Pepsico, Inc.",151.29,152.79,-0.98,Decrease,207568355328,6819374,No Action Needed,2024-12-24
+ADBE,Adobe Inc.,446.74,447.17,-0.1,Decrease,196654940160,3613400,No Action Needed,2024-12-24
+CRM,"Salesforce, Inc.",342.9,343.65,-0.22,Decrease,328155299840,4451742,No Action Needed,2024-12-24
+ORCL,Oracle Corporation,169.14,169.66,-0.31,Decrease,473077809152,3540288,No Action Needed,2024-12-24
+CVX,Chevron Corporation,142.97,142.85,0.08,Increase,254904057856,8151563,No Action Needed,2024-12-24
+ABBV,AbbVie Inc.,178.39,175.58,1.6,Increase,315240087552,3048905,No Action Needed,2024-12-24
+T,AT&T Inc.,22.84,22.75,0.4,Increase,163883614208,18549517,Hold (high activity),2024-12-24
+NKE,"Nike, Inc.",76.76,76.94,-0.23,Decrease,114257264640,14170150,Hold (high activity),2024-12-24
+COST,Costco Wholesale Corporation,949.91,954.07,-0.44,Decrease,421664096256,1749625,No Action Needed,2024-12-24
+MRK,"Merck & Company, Inc.",99.37,98.05,1.35,Increase,251370323968,5680888,No Action Needed,2024-12-24
+CMCSA,Comcast Corporation,37.98,38.22,-0.63,Decrease,145331994624,15971212,Hold (high activity),2024-12-24
+AMD,"Advanced Micro Devices, Inc.",124.6,119.21,4.52,Increase,202202120192,47051376,Consider Selling (high demand),2024-12-24
+ABT,Abbott Laboratories,114.31,114.23,0.07,Increase,198266126336,4027341,No Action Needed,2024-12-24
+LLY,Eli Lilly and Company,796.28,767.76,3.71,Increase,716107350016,3618037,Consider Selling (high demand),2024-12-24
+UPS,"United Parcel Service, Inc.",125.75,125.68,0.06,Increase,107311276032,3417882,No Action Needed,2024-12-24
+BMY,Bristol-Myers Squibb Company,57.58,57.33,0.44,Increase,116782604288,5834026,No Action Needed,2024-12-24
+DHR,Danaher Corporation,229.16,228.55,0.27,Increase,165516541952,2190811,No Action Needed,2024-12-24
+TSLA,"Tesla, Inc.",439.11,454.13,-3.31,Decrease,1409569390592,14531850,Consider Buying (potential rebound),2024-12-27
+NVDA,NVIDIA Corporation,136.52,139.93,-2.44,Decrease,3343374876672,27891136,Consider Buying (potential rebound),2024-12-27
+META,"Meta Platforms, Inc.",595.29,603.35,-1.34,Decrease,1502803525632,892150,No Action Needed,2024-12-27
+AAPL,Apple Inc.,256.52,259.02,-0.97,Decrease,3877504811008,4030532,No Action Needed,2024-12-27
+MSFT,Microsoft Corporation,430.565,438.11,-1.72,Decrease,3201199243264,1871387,No Action Needed,2024-12-27
+GOOGL,Alphabet Inc.,193.145,195.6,-1.26,Decrease,2372477386752,2729486,No Action Needed,2024-12-27
+AMZN,"Amazon.com, Inc.",222.941,227.05,-1.81,Decrease,2344224555008,3986141,No Action Needed,2024-12-27
+BRK-B,Berkshire Hathaway Inc. New,460.75,459.08,0.36,Increase,993003831296,322863,No Action Needed,2024-12-27
+JNJ,Johnson & Johnson,146.03,145.58,0.31,Increase,351584747520,462032,No Action Needed,2024-12-27
+V,Visa Inc.,321.32,320.91,0.13,Increase,622226571264,309059,No Action Needed,2024-12-27
+WMT,Walmart Inc.,91.76,92.79,-1.11,Decrease,737143881728,1080789,No Action Needed,2024-12-27
+JPM,JP Morgan Chase & Co.,243.0417,243.14,-0.04,Decrease,684245057536,375108,No Action Needed,2024-12-27
+PG,Procter & Gamble Company (The),170.3801,170.16,0.13,Increase,401251926016,341184,No Action Needed,2024-12-27
+UNH,UnitedHealth Group Incorporated,512.89,511.15,0.34,Increase,472004493312,281314,No Action Needed,2024-12-27
+HD,"Home Depot, Inc. (The)",395.26,395.14,0.03,Increase,392636661760,132842,No Action Needed,2024-12-27
+MA,Mastercard Incorporated,537.55,536.15,0.26,Increase,493380042752,115224,No Action Needed,2024-12-27
+BAC,Bank of America Corporation,44.705,44.55,0.35,Increase,343016112128,2632681,No Action Needed,2024-12-27
+PFE,"Pfizer, Inc.",26.825,26.56,1.0,Increase,152017010688,4211863,No Action Needed,2024-12-27
+KO,Coca-Cola Company (The),62.835,62.57,0.42,Increase,270680621056,948135,No Action Needed,2024-12-27
+DIS,Walt Disney Company (The),112.05,112.55,-0.44,Decrease,202915840000,523484,No Action Needed,2024-12-27
+CSCO,"Cisco Systems, Inc.",59.94,59.98,-0.07,Decrease,238726627328,855662,No Action Needed,2024-12-27
+NFLX,"Netflix, Inc.",901.265,924.14,-2.48,Decrease,385252917248,561997,Consider Buying (potential rebound),2024-12-27
+INTC,Intel Corporation,20.4,20.44,-0.2,Decrease,87985192960,5917301,No Action Needed,2024-12-27
+XOM,Exxon Mobil Corporation,107.839,106.49,1.27,Increase,473962086400,1380615,No Action Needed,2024-12-27
+PEP,"Pepsico, Inc.",153.03,152.44,0.39,Increase,209955635200,297240,No Action Needed,2024-12-27
+ADBE,Adobe Inc.,446.1,450.16,-0.9,Decrease,196373217280,236660,No Action Needed,2024-12-27
+CRM,"Salesforce, Inc.",339.715,341.72,-0.59,Decrease,325107253248,428096,No Action Needed,2024-12-27
+ORCL,Oracle Corporation,168.79,171.68,-1.68,Decrease,472098865152,348894,No Action Needed,2024-12-27
+CVX,Chevron Corporation,145.4,143.98,0.99,Increase,259236544512,501789,No Action Needed,2024-12-27
+ABBV,AbbVie Inc.,179.09,179.2,-0.06,Decrease,316477079552,127962,No Action Needed,2024-12-27
+T,AT&T Inc.,23.015,22.96,0.24,Increase,165139283968,1239207,No Action Needed,2024-12-27
+NKE,"Nike, Inc.",76.845,76.94,-0.12,Decrease,114383781888,565800,No Action Needed,2024-12-27
+COST,Costco Wholesale Corporation,942.82,956.14,-1.39,Decrease,418516860928,188324,No Action Needed,2024-12-27
+MRK,"Merck & Company, Inc.",99.965,99.87,0.1,Increase,252875440128,379720,No Action Needed,2024-12-27
+CMCSA,Comcast Corporation,38.16,38.25,-0.24,Decrease,146020761600,726201,No Action Needed,2024-12-27
+AMD,"Advanced Micro Devices, Inc.",123.665,125.06,-1.12,Decrease,200684797952,6350729,No Action Needed,2024-12-27
+ABT,Abbott Laboratories,115.76,115.27,0.43,Increase,200781103104,181924,No Action Needed,2024-12-27
+LLY,Eli Lilly and Company,790.66,794.14,-0.44,Decrease,711053148160,202650,No Action Needed,2024-12-27
+UPS,"United Parcel Service, Inc.",126.53,126.36,0.13,Increase,107976900608,164813,No Action Needed,2024-12-27
+BMY,Bristol-Myers Squibb Company,58.28,58.0,0.48,Increase,118202327040,429725,No Action Needed,2024-12-27
+DHR,Danaher Corporation,231.6925,231.01,0.3,Increase,167345700864,172922,No Action Needed,2024-12-27
+TSLA,"Tesla, Inc.",431.66,454.13,-4.95,Decrease,1385654517760,81699633,Consider Buying (potential rebound),2024-12-28
+NVDA,NVIDIA Corporation,137.01,139.93,-2.09,Decrease,3355374780416,169431279,Consider Buying (potential rebound),2024-12-28
+META,"Meta Platforms, Inc.",599.81,603.35,-0.59,Decrease,1514214391808,8009448,No Action Needed,2024-12-28
+AAPL,Apple Inc.,255.59,259.02,-1.32,Decrease,3863447076864,42170447,Hold (high activity),2024-12-28
+MSFT,Microsoft Corporation,430.53,438.11,-1.73,Decrease,3200938934272,18065824,Hold (high activity),2024-12-28
+GOOGL,Alphabet Inc.,192.76,195.6,-1.45,Decrease,2366649401344,18811944,Hold (high activity),2024-12-28
+AMZN,"Amazon.com, Inc.",223.75,227.05,-1.45,Decrease,2352731389952,27314834,Hold (high activity),2024-12-28
+BRK-B,Berkshire Hathaway Inc. New,456.51,459.08,-0.56,Decrease,984504926208,3234837,No Action Needed,2024-12-28
+JNJ,Johnson & Johnson,145.05,145.58,-0.36,Decrease,349225287680,3946047,No Action Needed,2024-12-28
+V,Visa Inc.,318.66,320.91,-0.7,Decrease,617075572736,3485491,No Action Needed,2024-12-28
+WMT,Walmart Inc.,91.66,92.79,-1.22,Decrease,736340541440,8814893,No Action Needed,2024-12-28
+JPM,JP Morgan Chase & Co.,241.17,243.14,-0.81,Decrease,678975569920,5229679,No Action Needed,2024-12-28
+PG,Procter & Gamble Company (The),169.53,170.16,-0.37,Decrease,399249932288,3081298,No Action Needed,2024-12-28
+UNH,UnitedHealth Group Incorporated,509.99,511.15,-0.23,Decrease,469335638016,3470919,No Action Needed,2024-12-28
+HD,"Home Depot, Inc. (The)",392.86,395.14,-0.58,Decrease,390252593152,1941817,No Action Needed,2024-12-28
+MA,Mastercard Incorporated,532.2,536.15,-0.74,Decrease,488469659648,1080100,No Action Needed,2024-12-28
+BAC,Bank of America Corporation,44.34,44.55,-0.47,Decrease,340215496704,13354304,Hold (high activity),2024-12-28
+PFE,"Pfizer, Inc.",26.62,26.56,0.23,Increase,150855286784,27122411,Hold (high activity),2024-12-28
+KO,Coca-Cola Company (The),62.45,62.57,-0.19,Decrease,269022117888,8538652,No Action Needed,2024-12-28
+DIS,Walt Disney Company (The),111.55,112.55,-0.89,Decrease,202010361856,4503436,No Action Needed,2024-12-28
+CSCO,"Cisco Systems, Inc.",59.61,59.98,-0.62,Decrease,237412319232,12396649,Hold (high activity),2024-12-28
+NFLX,"Netflix, Inc.",907.55,924.14,-1.8,Decrease,387939500032,3177732,No Action Needed,2024-12-28
+INTC,Intel Corporation,20.3,20.44,-0.68,Decrease,87553892352,47750090,Hold (high activity),2024-12-28
+XOM,Exxon Mobil Corporation,106.48,106.49,-0.01,Decrease,467989200896,9086933,No Action Needed,2024-12-28
+PEP,"Pepsico, Inc.",152.89,152.44,0.3,Increase,209763549184,4283520,No Action Needed,2024-12-28
+ADBE,Adobe Inc.,446.48,450.16,-0.82,Decrease,196540497920,2942580,No Action Needed,2024-12-28
+CRM,"Salesforce, Inc.",338.45,341.72,-0.96,Decrease,323896672256,2382342,No Action Needed,2024-12-28
+ORCL,Oracle Corporation,168.96,171.68,-1.58,Decrease,472574394368,3451984,No Action Needed,2024-12-28
+CVX,Chevron Corporation,144.0,143.98,0.01,Increase,256740474880,5290035,No Action Needed,2024-12-28
+ABBV,AbbVie Inc.,178.01,179.2,-0.66,Decrease,314568572928,2743044,No Action Needed,2024-12-28
+T,AT&T Inc.,22.86,22.96,-0.44,Decrease,164027138048,13971625,Hold (high activity),2024-12-28
+NKE,"Nike, Inc.",76.42,76.94,-0.68,Decrease,113751162880,5226026,No Action Needed,2024-12-28
+COST,Costco Wholesale Corporation,939.7,956.14,-1.72,Decrease,417131888640,1895513,No Action Needed,2024-12-28
+MRK,"Merck & Company, Inc.",99.7,99.87,-0.17,Decrease,252205088768,4325607,No Action Needed,2024-12-28
+CMCSA,Comcast Corporation,37.93,38.25,-0.84,Decrease,145140662272,15159100,Hold (high activity),2024-12-28
+AMD,"Advanced Micro Devices, Inc.",125.19,125.06,0.1,Increase,203159584768,32506592,Hold (high activity),2024-12-28
+ABT,Abbott Laboratories,114.99,115.27,-0.24,Decrease,199445561344,1940068,No Action Needed,2024-12-28
+LLY,Eli Lilly and Company,783.17,794.14,-1.38,Decrease,704317292544,2088174,No Action Needed,2024-12-28
+UPS,"United Parcel Service, Inc.",126.11,126.36,-0.2,Decrease,107618492416,2355026,No Action Needed,2024-12-28
+BMY,Bristol-Myers Squibb Company,57.68,58.0,-0.55,Decrease,116985421824,4999530,No Action Needed,2024-12-28
+DHR,Danaher Corporation,231.1,231.01,0.04,Increase,166917750784,2130006,No Action Needed,2024-12-28
+TSLA,"Tesla, Inc.",431.66,454.13,-4.95,Decrease,1385654517760,82666821,Consider Buying (potential rebound),2024-12-30
+NVDA,NVIDIA Corporation,137.09,139.93,-2.03,Decrease,3357334044672,169431279,Consider Buying (potential rebound),2024-12-30
+META,"Meta Platforms, Inc.",599.81,603.35,-0.59,Decrease,1514214391808,8009448,No Action Needed,2024-12-30
+AAPL,Apple Inc.,255.65,259.02,-1.3,Decrease,3864354095104,42170447,Hold (high activity),2024-12-30
+MSFT,Microsoft Corporation,430.5575,438.11,-1.72,Decrease,3201143406592,18065824,Hold (high activity),2024-12-30
+GOOGL,Alphabet Inc.,192.76,195.6,-1.45,Decrease,2366649401344,18811944,Hold (high activity),2024-12-30
+AMZN,"Amazon.com, Inc.",223.79,227.05,-1.44,Decrease,2353151868928,27314834,Hold (high activity),2024-12-30
+BRK-B,Berkshire Hathaway Inc. New,456.51,459.08,-0.56,Decrease,984504926208,3234837,No Action Needed,2024-12-30
+JNJ,Johnson & Johnson,145.05,145.58,-0.36,Decrease,349225287680,3946047,No Action Needed,2024-12-30
+V,Visa Inc.,318.66,320.91,-0.7,Decrease,617075572736,3485491,No Action Needed,2024-12-30
+WMT,Walmart Inc.,91.66,92.79,-1.22,Decrease,736340541440,8814893,No Action Needed,2024-12-30
+JPM,JP Morgan Chase & Co.,241.17,243.14,-0.81,Decrease,678975569920,5229679,No Action Needed,2024-12-30
+PG,Procter & Gamble Company (The),169.53,170.16,-0.37,Decrease,399249932288,3081298,No Action Needed,2024-12-30
+UNH,UnitedHealth Group Incorporated,509.99,511.15,-0.23,Decrease,469335638016,3470919,No Action Needed,2024-12-30
+HD,"Home Depot, Inc. (The)",392.86,395.14,-0.58,Decrease,390252593152,1941817,No Action Needed,2024-12-30
+MA,Mastercard Incorporated,532.2,536.15,-0.74,Decrease,488469659648,1080100,No Action Needed,2024-12-30
+BAC,Bank of America Corporation,44.34,44.55,-0.47,Decrease,340215496704,13354304,Hold (high activity),2024-12-30
+PFE,"Pfizer, Inc.",26.62,26.56,0.23,Increase,150855286784,27122411,Hold (high activity),2024-12-30
+KO,Coca-Cola Company (The),62.45,62.57,-0.19,Decrease,269022117888,8538652,No Action Needed,2024-12-30
+DIS,Walt Disney Company (The),111.55,112.55,-0.89,Decrease,202010361856,4503436,No Action Needed,2024-12-30
+CSCO,"Cisco Systems, Inc.",59.61,59.98,-0.62,Decrease,237412319232,12396649,Hold (high activity),2024-12-30
+NFLX,"Netflix, Inc.",907.55,924.14,-1.8,Decrease,387939500032,3177732,No Action Needed,2024-12-30
+INTC,Intel Corporation,20.32,20.44,-0.59,Decrease,87640154112,47750090,Hold (high activity),2024-12-30
+XOM,Exxon Mobil Corporation,106.48,106.49,-0.01,Decrease,467989200896,9086933,No Action Needed,2024-12-30
+PEP,"Pepsico, Inc.",152.89,152.44,0.3,Increase,209763549184,4283520,No Action Needed,2024-12-30
+ADBE,Adobe Inc.,446.48,450.16,-0.82,Decrease,196540497920,2942580,No Action Needed,2024-12-30
+CRM,"Salesforce, Inc.",338.45,341.72,-0.96,Decrease,323896672256,2382342,No Action Needed,2024-12-30
+ORCL,Oracle Corporation,168.96,171.68,-1.58,Decrease,472574394368,3451984,No Action Needed,2024-12-30
+CVX,Chevron Corporation,144.0,143.98,0.01,Increase,256740474880,5290035,No Action Needed,2024-12-30
+ABBV,AbbVie Inc.,178.01,179.2,-0.66,Decrease,314568572928,2743044,No Action Needed,2024-12-30
+T,AT&T Inc.,22.86,22.96,-0.44,Decrease,164027138048,13971625,Hold (high activity),2024-12-30
+NKE,"Nike, Inc.",76.42,76.94,-0.68,Decrease,113751162880,5226026,No Action Needed,2024-12-30
+COST,Costco Wholesale Corporation,939.7,956.14,-1.72,Decrease,417131888640,1895513,No Action Needed,2024-12-30
+MRK,"Merck & Company, Inc.",99.7,99.87,-0.17,Decrease,252205088768,4325607,No Action Needed,2024-12-30
+CMCSA,Comcast Corporation,37.93,38.25,-0.84,Decrease,145140662272,15159100,Hold (high activity),2024-12-30
+AMD,"Advanced Micro Devices, Inc.",125.24,125.06,0.14,Increase,203240718336,32506592,Hold (high activity),2024-12-30
+ABT,Abbott Laboratories,114.99,115.27,-0.24,Decrease,199445561344,1940068,No Action Needed,2024-12-30
+LLY,Eli Lilly and Company,783.17,794.14,-1.38,Decrease,704317292544,2088174,No Action Needed,2024-12-30
+UPS,"United Parcel Service, Inc.",126.11,126.36,-0.2,Decrease,107618492416,2355026,No Action Needed,2024-12-30
+BMY,Bristol-Myers Squibb Company,57.68,58.0,-0.55,Decrease,116985421824,4999530,No Action Needed,2024-12-30
+DHR,Danaher Corporation,231.1,231.01,0.04,Increase,166917750784,2130006,No Action Needed,2024-12-30
+TSLA,"Tesla, Inc.",431.66,454.13,-4.95,Decrease,1385654517760,82666821,Consider Buying (potential rebound),2024-12-30
+NVDA,NVIDIA Corporation,137.09,139.93,-2.03,Decrease,3357334044672,169431279,Consider Buying (potential rebound),2024-12-30
+META,"Meta Platforms, Inc.",599.81,603.35,-0.59,Decrease,1514214391808,8009448,No Action Needed,2024-12-30
+AAPL,Apple Inc.,255.65,259.02,-1.3,Decrease,3864354095104,42170447,Hold (high activity),2024-12-30
+MSFT,Microsoft Corporation,430.5575,438.11,-1.72,Decrease,3201143406592,18065824,Hold (high activity),2024-12-30
+GOOGL,Alphabet Inc.,192.76,195.6,-1.45,Decrease,2366649401344,18811944,Hold (high activity),2024-12-30
+AMZN,"Amazon.com, Inc.",223.79,227.05,-1.44,Decrease,2353151868928,27314834,Hold (high activity),2024-12-30
+BRK-B,Berkshire Hathaway Inc. New,456.51,459.08,-0.56,Decrease,984504926208,3234837,No Action Needed,2024-12-30
+JNJ,Johnson & Johnson,145.05,145.58,-0.36,Decrease,349225287680,3946047,No Action Needed,2024-12-30
+V,Visa Inc.,318.66,320.91,-0.7,Decrease,617075572736,3485491,No Action Needed,2024-12-30
+WMT,Walmart Inc.,91.66,92.79,-1.22,Decrease,736340541440,8814893,No Action Needed,2024-12-30
+JPM,JP Morgan Chase & Co.,241.17,243.14,-0.81,Decrease,678975569920,5229679,No Action Needed,2024-12-30
+PG,Procter & Gamble Company (The),169.53,170.16,-0.37,Decrease,399249932288,3081298,No Action Needed,2024-12-30
+UNH,UnitedHealth Group Incorporated,509.99,511.15,-0.23,Decrease,469335638016,3470919,No Action Needed,2024-12-30
+HD,"Home Depot, Inc. (The)",392.86,395.14,-0.58,Decrease,390252593152,1941817,No Action Needed,2024-12-30
+MA,Mastercard Incorporated,532.2,536.15,-0.74,Decrease,488469659648,1080100,No Action Needed,2024-12-30
+BAC,Bank of America Corporation,44.34,44.55,-0.47,Decrease,340215496704,13354304,Hold (high activity),2024-12-30
+PFE,"Pfizer, Inc.",26.62,26.56,0.23,Increase,150855286784,27122411,Hold (high activity),2024-12-30
+KO,Coca-Cola Company (The),62.45,62.57,-0.19,Decrease,269022117888,8538652,No Action Needed,2024-12-30
+DIS,Walt Disney Company (The),111.55,112.55,-0.89,Decrease,202010361856,4503436,No Action Needed,2024-12-30
+CSCO,"Cisco Systems, Inc.",59.61,59.98,-0.62,Decrease,237412319232,12396649,Hold (high activity),2024-12-30
+NFLX,"Netflix, Inc.",907.55,924.14,-1.8,Decrease,387939500032,3177732,No Action Needed,2024-12-30
+INTC,Intel Corporation,20.32,20.44,-0.59,Decrease,87640154112,47750090,Hold (high activity),2024-12-30
+XOM,Exxon Mobil Corporation,106.48,106.49,-0.01,Decrease,467989200896,9086933,No Action Needed,2024-12-30
+PEP,"Pepsico, Inc.",152.89,152.44,0.3,Increase,209763549184,4283520,No Action Needed,2024-12-30
+ADBE,Adobe Inc.,446.48,450.16,-0.82,Decrease,196540497920,2942580,No Action Needed,2024-12-30
+CRM,"Salesforce, Inc.",338.45,341.72,-0.96,Decrease,323896672256,2382342,No Action Needed,2024-12-30
+ORCL,Oracle Corporation,168.96,171.68,-1.58,Decrease,472574394368,3451984,No Action Needed,2024-12-30
+CVX,Chevron Corporation,144.0,143.98,0.01,Increase,256740474880,5290035,No Action Needed,2024-12-30
+ABBV,AbbVie Inc.,178.01,179.2,-0.66,Decrease,314568572928,2743044,No Action Needed,2024-12-30
+T,AT&T Inc.,22.86,22.96,-0.44,Decrease,164027138048,13971625,Hold (high activity),2024-12-30
+NKE,"Nike, Inc.",76.42,76.94,-0.68,Decrease,113751162880,5226026,No Action Needed,2024-12-30
+COST,Costco Wholesale Corporation,939.7,956.14,-1.72,Decrease,417131888640,1895513,No Action Needed,2024-12-30
+MRK,"Merck & Company, Inc.",99.7,99.87,-0.17,Decrease,252205088768,4325607,No Action Needed,2024-12-30
+CMCSA,Comcast Corporation,37.93,38.25,-0.84,Decrease,145140662272,15159100,Hold (high activity),2024-12-30
+AMD,"Advanced Micro Devices, Inc.",125.24,125.06,0.14,Increase,203240718336,32506592,Hold (high activity),2024-12-30
+ABT,Abbott Laboratories,114.99,115.27,-0.24,Decrease,199445561344,1940068,No Action Needed,2024-12-30
+LLY,Eli Lilly and Company,783.17,794.14,-1.38,Decrease,704317292544,2088174,No Action Needed,2024-12-30
+UPS,"United Parcel Service, Inc.",126.11,126.36,-0.2,Decrease,107618492416,2355026,No Action Needed,2024-12-30
+BMY,Bristol-Myers Squibb Company,57.68,58.0,-0.55,Decrease,116985421824,4999530,No Action Needed,2024-12-30
+DHR,Danaher Corporation,231.1,231.01,0.04,Increase,166917750784,2130006,No Action Needed,2024-12-30
+TSLA,"Tesla, Inc.",431.66,454.13,-4.95,Decrease,1385654517760,82666821,Consider Buying (potential rebound),2024-12-30
+NVDA,NVIDIA Corporation,137.09,139.93,-2.03,Decrease,3357334044672,169431279,Consider Buying (potential rebound),2024-12-30
+META,"Meta Platforms, Inc.",599.81,603.35,-0.59,Decrease,1514214391808,8009448,No Action Needed,2024-12-30
+AAPL,Apple Inc.,255.65,259.02,-1.3,Decrease,3864354095104,42170447,Hold (high activity),2024-12-30
+MSFT,Microsoft Corporation,430.5575,438.11,-1.72,Decrease,3201143406592,18065824,Hold (high activity),2024-12-30
+GOOGL,Alphabet Inc.,192.76,195.6,-1.45,Decrease,2366649401344,18811944,Hold (high activity),2024-12-30
+AMZN,"Amazon.com, Inc.",223.79,227.05,-1.44,Decrease,2353151868928,27314834,Hold (high activity),2024-12-30
+BRK-B,Berkshire Hathaway Inc. New,456.51,459.08,-0.56,Decrease,984504926208,3234837,No Action Needed,2024-12-30
+JNJ,Johnson & Johnson,145.05,145.58,-0.36,Decrease,349225287680,3946047,No Action Needed,2024-12-30
+V,Visa Inc.,318.66,320.91,-0.7,Decrease,617075572736,3485491,No Action Needed,2024-12-30
+WMT,Walmart Inc.,91.66,92.79,-1.22,Decrease,736340541440,8814893,No Action Needed,2024-12-30
+JPM,JP Morgan Chase & Co.,241.17,243.14,-0.81,Decrease,678975569920,5229679,No Action Needed,2024-12-30
+PG,Procter & Gamble Company (The),169.53,170.16,-0.37,Decrease,399249932288,3081298,No Action Needed,2024-12-30
+UNH,UnitedHealth Group Incorporated,509.99,511.15,-0.23,Decrease,469335638016,3470919,No Action Needed,2024-12-30
+HD,"Home Depot, Inc. (The)",392.86,395.14,-0.58,Decrease,390252593152,1941817,No Action Needed,2024-12-30
+MA,Mastercard Incorporated,532.2,536.15,-0.74,Decrease,488469659648,1080100,No Action Needed,2024-12-30
+BAC,Bank of America Corporation,44.34,44.55,-0.47,Decrease,340215496704,13354304,Hold (high activity),2024-12-30
+PFE,"Pfizer, Inc.",26.62,26.56,0.23,Increase,150855286784,27122411,Hold (high activity),2024-12-30
+KO,Coca-Cola Company (The),62.45,62.57,-0.19,Decrease,269022117888,8538652,No Action Needed,2024-12-30
+DIS,Walt Disney Company (The),111.55,112.55,-0.89,Decrease,202010361856,4503436,No Action Needed,2024-12-30
+CSCO,"Cisco Systems, Inc.",59.61,59.98,-0.62,Decrease,237412319232,12396649,Hold (high activity),2024-12-30
+NFLX,"Netflix, Inc.",907.55,924.14,-1.8,Decrease,387939500032,3177732,No Action Needed,2024-12-30
+INTC,Intel Corporation,20.32,20.44,-0.59,Decrease,87640154112,47750090,Hold (high activity),2024-12-30
+XOM,Exxon Mobil Corporation,106.48,106.49,-0.01,Decrease,467989200896,9086933,No Action Needed,2024-12-30
+PEP,"Pepsico, Inc.",152.89,152.44,0.3,Increase,209763549184,4283520,No Action Needed,2024-12-30
+ADBE,Adobe Inc.,446.48,450.16,-0.82,Decrease,196540497920,2942580,No Action Needed,2024-12-30
+CRM,"Salesforce, Inc.",338.45,341.72,-0.96,Decrease,323896672256,2382342,No Action Needed,2024-12-30
+ORCL,Oracle Corporation,168.96,171.68,-1.58,Decrease,472574394368,3451984,No Action Needed,2024-12-30
+CVX,Chevron Corporation,144.0,143.98,0.01,Increase,256740474880,5290035,No Action Needed,2024-12-30
+ABBV,AbbVie Inc.,178.01,179.2,-0.66,Decrease,314568572928,2743044,No Action Needed,2024-12-30
+T,AT&T Inc.,22.86,22.96,-0.44,Decrease,164027138048,13971625,Hold (high activity),2024-12-30
+NKE,"Nike, Inc.",76.42,76.94,-0.68,Decrease,113751162880,5226026,No Action Needed,2024-12-30
+COST,Costco Wholesale Corporation,939.7,956.14,-1.72,Decrease,417131888640,1895513,No Action Needed,2024-12-30
+MRK,"Merck & Company, Inc.",99.7,99.87,-0.17,Decrease,252205088768,4325607,No Action Needed,2024-12-30
+CMCSA,Comcast Corporation,37.93,38.25,-0.84,Decrease,145140662272,15159100,Hold (high activity),2024-12-30
+AMD,"Advanced Micro Devices, Inc.",125.24,125.06,0.14,Increase,203240718336,32506592,Hold (high activity),2024-12-30
+ABT,Abbott Laboratories,114.99,115.27,-0.24,Decrease,199445561344,1940068,No Action Needed,2024-12-30
+LLY,Eli Lilly and Company,783.17,794.14,-1.38,Decrease,704317292544,2088174,No Action Needed,2024-12-30
+UPS,"United Parcel Service, Inc.",126.11,126.36,-0.2,Decrease,107618492416,2355026,No Action Needed,2024-12-30
+BMY,Bristol-Myers Squibb Company,57.68,58.0,-0.55,Decrease,116985421824,4999530,No Action Needed,2024-12-30
+DHR,Danaher Corporation,231.1,231.01,0.04,Increase,166917750784,2130006,No Action Needed,2024-12-30
+TSLA,"Tesla, Inc.",431.66,454.13,-4.95,Decrease,1385654517760,82666821,Consider Buying (potential rebound),2024-12-30
+NVDA,NVIDIA Corporation,137.09,139.93,-2.03,Decrease,3357334044672,169431279,Consider Buying (potential rebound),2024-12-30
+META,"Meta Platforms, Inc.",599.81,603.35,-0.59,Decrease,1514214391808,8009448,No Action Needed,2024-12-30
+AAPL,Apple Inc.,255.65,259.02,-1.3,Decrease,3864354095104,42170447,Hold (high activity),2024-12-30
+MSFT,Microsoft Corporation,430.5575,438.11,-1.72,Decrease,3201143406592,18065824,Hold (high activity),2024-12-30
+GOOGL,Alphabet Inc.,192.76,195.6,-1.45,Decrease,2366649401344,18811944,Hold (high activity),2024-12-30
+AMZN,"Amazon.com, Inc.",223.79,227.05,-1.44,Decrease,2353151868928,27314834,Hold (high activity),2024-12-30
+BRK-B,Berkshire Hathaway Inc. New,456.51,459.08,-0.56,Decrease,984504926208,3234837,No Action Needed,2024-12-30
+JNJ,Johnson & Johnson,145.05,145.58,-0.36,Decrease,349225287680,3946047,No Action Needed,2024-12-30
+V,Visa Inc.,318.66,320.91,-0.7,Decrease,617075572736,3485491,No Action Needed,2024-12-30
+WMT,Walmart Inc.,91.66,92.79,-1.22,Decrease,736340541440,8814893,No Action Needed,2024-12-30
+JPM,JP Morgan Chase & Co.,241.17,243.14,-0.81,Decrease,678975569920,5229679,No Action Needed,2024-12-30
+PG,Procter & Gamble Company (The),169.53,170.16,-0.37,Decrease,399249932288,3081298,No Action Needed,2024-12-30
+UNH,UnitedHealth Group Incorporated,509.99,511.15,-0.23,Decrease,469335638016,3470919,No Action Needed,2024-12-30
+HD,"Home Depot, Inc. (The)",392.86,395.14,-0.58,Decrease,390252593152,1941817,No Action Needed,2024-12-30
+MA,Mastercard Incorporated,532.2,536.15,-0.74,Decrease,488469659648,1080100,No Action Needed,2024-12-30
+BAC,Bank of America Corporation,44.34,44.55,-0.47,Decrease,340215496704,13354304,Hold (high activity),2024-12-30
+PFE,"Pfizer, Inc.",26.62,26.56,0.23,Increase,150855286784,27122411,Hold (high activity),2024-12-30
+KO,Coca-Cola Company (The),62.45,62.57,-0.19,Decrease,269022117888,8538652,No Action Needed,2024-12-30
+DIS,Walt Disney Company (The),111.55,112.55,-0.89,Decrease,202010361856,4503436,No Action Needed,2024-12-30
+CSCO,"Cisco Systems, Inc.",59.61,59.98,-0.62,Decrease,237412319232,12396649,Hold (high activity),2024-12-30
+NFLX,"Netflix, Inc.",907.55,924.14,-1.8,Decrease,387939500032,3177732,No Action Needed,2024-12-30
+INTC,Intel Corporation,20.32,20.44,-0.59,Decrease,87640154112,47750090,Hold (high activity),2024-12-30
+XOM,Exxon Mobil Corporation,106.48,106.49,-0.01,Decrease,467989200896,9086933,No Action Needed,2024-12-30
+PEP,"Pepsico, Inc.",152.89,152.44,0.3,Increase,209763549184,4283520,No Action Needed,2024-12-30
+ADBE,Adobe Inc.,446.48,450.16,-0.82,Decrease,196540497920,2942580,No Action Needed,2024-12-30
+CRM,"Salesforce, Inc.",338.45,341.72,-0.96,Decrease,323896672256,2382342,No Action Needed,2024-12-30
+ORCL,Oracle Corporation,168.96,171.68,-1.58,Decrease,472574394368,3451984,No Action Needed,2024-12-30
+CVX,Chevron Corporation,144.0,143.98,0.01,Increase,256740474880,5290035,No Action Needed,2024-12-30
+ABBV,AbbVie Inc.,178.01,179.2,-0.66,Decrease,314568572928,2743044,No Action Needed,2024-12-30
+T,AT&T Inc.,22.86,22.96,-0.44,Decrease,164027138048,13971625,Hold (high activity),2024-12-30
+NKE,"Nike, Inc.",76.42,76.94,-0.68,Decrease,113751162880,5226026,No Action Needed,2024-12-30
+COST,Costco Wholesale Corporation,939.7,956.14,-1.72,Decrease,417131888640,1895513,No Action Needed,2024-12-30
+MRK,"Merck & Company, Inc.",99.7,99.87,-0.17,Decrease,252205088768,4325607,No Action Needed,2024-12-30
+CMCSA,Comcast Corporation,37.93,38.25,-0.84,Decrease,145140662272,15159100,Hold (high activity),2024-12-30
+AMD,"Advanced Micro Devices, Inc.",125.24,125.06,0.14,Increase,203240718336,32506592,Hold (high activity),2024-12-30
+ABT,Abbott Laboratories,114.99,115.27,-0.24,Decrease,199445561344,1940068,No Action Needed,2024-12-30
+LLY,Eli Lilly and Company,783.17,794.14,-1.38,Decrease,704317292544,2088174,No Action Needed,2024-12-30
+UPS,"United Parcel Service, Inc.",126.11,126.36,-0.2,Decrease,107618492416,2355026,No Action Needed,2024-12-30
+BMY,Bristol-Myers Squibb Company,57.68,58.0,-0.55,Decrease,116985421824,4999530,No Action Needed,2024-12-30
+DHR,Danaher Corporation,231.1,231.01,0.04,Increase,166917750784,2130006,No Action Needed,2024-12-30
+TSLA,"Tesla, Inc.",431.66,454.13,-4.95,Decrease,1385654517760,82666821,Consider Buying (potential rebound),2024-12-30
+NVDA,NVIDIA Corporation,137.09,139.93,-2.03,Decrease,3357334044672,169431279,Consider Buying (potential rebound),2024-12-30
+META,"Meta Platforms, Inc.",599.81,603.35,-0.59,Decrease,1514214391808,8009448,No Action Needed,2024-12-30
+AAPL,Apple Inc.,255.65,259.02,-1.3,Decrease,3864354095104,42170447,Hold (high activity),2024-12-30
+MSFT,Microsoft Corporation,430.5575,438.11,-1.72,Decrease,3201143406592,18065824,Hold (high activity),2024-12-30
+GOOGL,Alphabet Inc.,192.76,195.6,-1.45,Decrease,2366649401344,18811944,Hold (high activity),2024-12-30
+AMZN,"Amazon.com, Inc.",223.79,227.05,-1.44,Decrease,2353151868928,27314834,Hold (high activity),2024-12-30
+BRK-B,Berkshire Hathaway Inc. New,456.51,459.08,-0.56,Decrease,984504926208,3234837,No Action Needed,2024-12-30
+JNJ,Johnson & Johnson,145.05,145.58,-0.36,Decrease,349225287680,3946047,No Action Needed,2024-12-30
+V,Visa Inc.,318.66,320.91,-0.7,Decrease,617075572736,3485491,No Action Needed,2024-12-30
+WMT,Walmart Inc.,91.66,92.79,-1.22,Decrease,736340541440,8814893,No Action Needed,2024-12-30
+JPM,JP Morgan Chase & Co.,241.17,243.14,-0.81,Decrease,678975569920,5229679,No Action Needed,2024-12-30
+PG,Procter & Gamble Company (The),169.53,170.16,-0.37,Decrease,399249932288,3081298,No Action Needed,2024-12-30
+UNH,UnitedHealth Group Incorporated,509.99,511.15,-0.23,Decrease,469335638016,3470919,No Action Needed,2024-12-30
+HD,"Home Depot, Inc. (The)",392.86,395.14,-0.58,Decrease,390252593152,1941817,No Action Needed,2024-12-30
+MA,Mastercard Incorporated,532.2,536.15,-0.74,Decrease,488469659648,1080100,No Action Needed,2024-12-30
+BAC,Bank of America Corporation,44.34,44.55,-0.47,Decrease,340215496704,13354304,Hold (high activity),2024-12-30
+PFE,"Pfizer, Inc.",26.62,26.56,0.23,Increase,150855286784,27122411,Hold (high activity),2024-12-30
+KO,Coca-Cola Company (The),62.45,62.57,-0.19,Decrease,269022117888,8538652,No Action Needed,2024-12-30
+DIS,Walt Disney Company (The),111.55,112.55,-0.89,Decrease,202010361856,4503436,No Action Needed,2024-12-30
+CSCO,"Cisco Systems, Inc.",59.61,59.98,-0.62,Decrease,237412319232,12396649,Hold (high activity),2024-12-30
+NFLX,"Netflix, Inc.",907.55,924.14,-1.8,Decrease,387939500032,3177732,No Action Needed,2024-12-30
+INTC,Intel Corporation,20.32,20.44,-0.59,Decrease,87640154112,47750090,Hold (high activity),2024-12-30
+XOM,Exxon Mobil Corporation,106.48,106.49,-0.01,Decrease,467989200896,9086933,No Action Needed,2024-12-30
+PEP,"Pepsico, Inc.",152.89,152.44,0.3,Increase,209763549184,4283520,No Action Needed,2024-12-30
+ADBE,Adobe Inc.,446.48,450.16,-0.82,Decrease,196540497920,2942580,No Action Needed,2024-12-30
+CRM,"Salesforce, Inc.",338.45,341.72,-0.96,Decrease,323896672256,2382342,No Action Needed,2024-12-30
+ORCL,Oracle Corporation,168.96,171.68,-1.58,Decrease,472574394368,3451984,No Action Needed,2024-12-30
+CVX,Chevron Corporation,144.0,143.98,0.01,Increase,256740474880,5290035,No Action Needed,2024-12-30
+ABBV,AbbVie Inc.,178.01,179.2,-0.66,Decrease,314568572928,2743044,No Action Needed,2024-12-30
+T,AT&T Inc.,22.86,22.96,-0.44,Decrease,164027138048,13971625,Hold (high activity),2024-12-30
+NKE,"Nike, Inc.",76.42,76.94,-0.68,Decrease,113751162880,5226026,No Action Needed,2024-12-30
+COST,Costco Wholesale Corporation,939.7,956.14,-1.72,Decrease,417131888640,1895513,No Action Needed,2024-12-30
+MRK,"Merck & Company, Inc.",99.7,99.87,-0.17,Decrease,252205088768,4325607,No Action Needed,2024-12-30
+CMCSA,Comcast Corporation,37.93,38.25,-0.84,Decrease,145140662272,15159100,Hold (high activity),2024-12-30
+AMD,"Advanced Micro Devices, Inc.",125.24,125.06,0.14,Increase,203240718336,32506592,Hold (high activity),2024-12-30
+ABT,Abbott Laboratories,114.99,115.27,-0.24,Decrease,199445561344,1940068,No Action Needed,2024-12-30
+LLY,Eli Lilly and Company,783.17,794.14,-1.38,Decrease,704317292544,2088174,No Action Needed,2024-12-30
+UPS,"United Parcel Service, Inc.",126.11,126.36,-0.2,Decrease,107618492416,2355026,No Action Needed,2024-12-30
+BMY,Bristol-Myers Squibb Company,57.68,58.0,-0.55,Decrease,116985421824,4999530,No Action Needed,2024-12-30
+DHR,Danaher Corporation,231.1,231.01,0.04,Increase,166917750784,2130006,No Action Needed,2024-12-30
+TSLA,"Tesla, Inc.",431.66,454.13,-4.95,Decrease,1385654517760,82666821,Consider Buying (potential rebound),2024-12-30
+NVDA,NVIDIA Corporation,137.09,139.93,-2.03,Decrease,3357334044672,169431279,Consider Buying (potential rebound),2024-12-30
+META,"Meta Platforms, Inc.",599.81,603.35,-0.59,Decrease,1514214391808,8009448,No Action Needed,2024-12-30
+AAPL,Apple Inc.,255.65,259.02,-1.3,Decrease,3864354095104,42170447,Hold (high activity),2024-12-30
+MSFT,Microsoft Corporation,430.5575,438.11,-1.72,Decrease,3201143406592,18065824,Hold (high activity),2024-12-30
+GOOGL,Alphabet Inc.,192.76,195.6,-1.45,Decrease,2366649401344,18811944,Hold (high activity),2024-12-30
+AMZN,"Amazon.com, Inc.",223.79,227.05,-1.44,Decrease,2353151868928,27314834,Hold (high activity),2024-12-30
+BRK-B,Berkshire Hathaway Inc. New,456.51,459.08,-0.56,Decrease,984504926208,3234837,No Action Needed,2024-12-30
+JNJ,Johnson & Johnson,145.05,145.58,-0.36,Decrease,349225287680,3946047,No Action Needed,2024-12-30
+V,Visa Inc.,318.66,320.91,-0.7,Decrease,617075572736,3485491,No Action Needed,2024-12-30
+WMT,Walmart Inc.,91.66,92.79,-1.22,Decrease,736340541440,8814893,No Action Needed,2024-12-30
+JPM,JP Morgan Chase & Co.,241.17,243.14,-0.81,Decrease,678975569920,5229679,No Action Needed,2024-12-30
+PG,Procter & Gamble Company (The),169.53,170.16,-0.37,Decrease,399249932288,3081298,No Action Needed,2024-12-30
+UNH,UnitedHealth Group Incorporated,509.99,511.15,-0.23,Decrease,469335638016,3470919,No Action Needed,2024-12-30
+HD,"Home Depot, Inc. (The)",392.86,395.14,-0.58,Decrease,390252593152,1941817,No Action Needed,2024-12-30
+MA,Mastercard Incorporated,532.2,536.15,-0.74,Decrease,488469659648,1080100,No Action Needed,2024-12-30
+BAC,Bank of America Corporation,44.34,44.55,-0.47,Decrease,340215496704,13354304,Hold (high activity),2024-12-30
+PFE,"Pfizer, Inc.",26.62,26.56,0.23,Increase,150855286784,27122411,Hold (high activity),2024-12-30
+KO,Coca-Cola Company (The),62.45,62.57,-0.19,Decrease,269022117888,8538652,No Action Needed,2024-12-30
+DIS,Walt Disney Company (The),111.55,112.55,-0.89,Decrease,202010361856,4503436,No Action Needed,2024-12-30
+CSCO,"Cisco Systems, Inc.",59.61,59.98,-0.62,Decrease,237412319232,12396649,Hold (high activity),2024-12-30
+NFLX,"Netflix, Inc.",907.55,924.14,-1.8,Decrease,387939500032,3177732,No Action Needed,2024-12-30
+INTC,Intel Corporation,20.32,20.44,-0.59,Decrease,87640154112,47750090,Hold (high activity),2024-12-30
+XOM,Exxon Mobil Corporation,106.48,106.49,-0.01,Decrease,467989200896,9086933,No Action Needed,2024-12-30
+PEP,"Pepsico, Inc.",152.89,152.44,0.3,Increase,209763549184,4283520,No Action Needed,2024-12-30
+ADBE,Adobe Inc.,446.48,450.16,-0.82,Decrease,196540497920,2942580,No Action Needed,2024-12-30
+CRM,"Salesforce, Inc.",338.45,341.72,-0.96,Decrease,323896672256,2382342,No Action Needed,2024-12-30
+ORCL,Oracle Corporation,168.96,171.68,-1.58,Decrease,472574394368,3451984,No Action Needed,2024-12-30
+CVX,Chevron Corporation,144.0,143.98,0.01,Increase,256740474880,5290035,No Action Needed,2024-12-30
+ABBV,AbbVie Inc.,178.01,179.2,-0.66,Decrease,314568572928,2743044,No Action Needed,2024-12-30
+T,AT&T Inc.,22.86,22.96,-0.44,Decrease,164027138048,13971625,Hold (high activity),2024-12-30
+NKE,"Nike, Inc.",76.42,76.94,-0.68,Decrease,113751162880,5226026,No Action Needed,2024-12-30
+COST,Costco Wholesale Corporation,939.7,956.14,-1.72,Decrease,417131888640,1895513,No Action Needed,2024-12-30
+MRK,"Merck & Company, Inc.",99.7,99.87,-0.17,Decrease,252205088768,4325607,No Action Needed,2024-12-30
+CMCSA,Comcast Corporation,37.93,38.25,-0.84,Decrease,145140662272,15159100,Hold (high activity),2024-12-30
+AMD,"Advanced Micro Devices, Inc.",125.24,125.06,0.14,Increase,203240718336,32506592,Hold (high activity),2024-12-30
+ABT,Abbott Laboratories,114.99,115.27,-0.24,Decrease,199445561344,1940068,No Action Needed,2024-12-30
+LLY,Eli Lilly and Company,783.17,794.14,-1.38,Decrease,704317292544,2088174,No Action Needed,2024-12-30
+UPS,"United Parcel Service, Inc.",126.11,126.36,-0.2,Decrease,107618492416,2355026,No Action Needed,2024-12-30
+BMY,Bristol-Myers Squibb Company,57.68,58.0,-0.55,Decrease,116985421824,4999530,No Action Needed,2024-12-30
+DHR,Danaher Corporation,231.1,231.01,0.04,Increase,166917750784,2130006,No Action Needed,2024-12-30
+TSLA,"Tesla, Inc.",431.66,454.13,-4.95,Decrease,1385654517760,82666821,Consider Buying (potential rebound),2024-12-30
+NVDA,NVIDIA Corporation,137.09,139.93,-2.03,Decrease,3357334044672,169431279,Consider Buying (potential rebound),2024-12-30
+META,"Meta Platforms, Inc.",599.81,603.35,-0.59,Decrease,1514214391808,8009448,No Action Needed,2024-12-30
+AAPL,Apple Inc.,255.65,259.02,-1.3,Decrease,3864354095104,42170447,Hold (high activity),2024-12-30
+MSFT,Microsoft Corporation,430.5575,438.11,-1.72,Decrease,3201143406592,18065824,Hold (high activity),2024-12-30
+GOOGL,Alphabet Inc.,192.76,195.6,-1.45,Decrease,2366649401344,18811944,Hold (high activity),2024-12-30
+AMZN,"Amazon.com, Inc.",223.79,227.05,-1.44,Decrease,2353151868928,27314834,Hold (high activity),2024-12-30
+BRK-B,Berkshire Hathaway Inc. New,456.51,459.08,-0.56,Decrease,984504926208,3234837,No Action Needed,2024-12-30
+JNJ,Johnson & Johnson,145.05,145.58,-0.36,Decrease,349225287680,3946047,No Action Needed,2024-12-30
+V,Visa Inc.,318.66,320.91,-0.7,Decrease,617075572736,3485491,No Action Needed,2024-12-30
+WMT,Walmart Inc.,91.66,92.79,-1.22,Decrease,736340541440,8814893,No Action Needed,2024-12-30
+JPM,JP Morgan Chase & Co.,241.17,243.14,-0.81,Decrease,678975569920,5229679,No Action Needed,2024-12-30
+PG,Procter & Gamble Company (The),169.53,170.16,-0.37,Decrease,399249932288,3081298,No Action Needed,2024-12-30
+UNH,UnitedHealth Group Incorporated,509.99,511.15,-0.23,Decrease,469335638016,3470919,No Action Needed,2024-12-30
+HD,"Home Depot, Inc. (The)",392.86,395.14,-0.58,Decrease,390252593152,1941817,No Action Needed,2024-12-30
+MA,Mastercard Incorporated,532.2,536.15,-0.74,Decrease,488469659648,1080100,No Action Needed,2024-12-30
+BAC,Bank of America Corporation,44.34,44.55,-0.47,Decrease,340215496704,13354304,Hold (high activity),2024-12-30
+PFE,"Pfizer, Inc.",26.62,26.56,0.23,Increase,150855286784,27122411,Hold (high activity),2024-12-30
+KO,Coca-Cola Company (The),62.45,62.57,-0.19,Decrease,269022117888,8538652,No Action Needed,2024-12-30
+DIS,Walt Disney Company (The),111.55,112.55,-0.89,Decrease,202010361856,4503436,No Action Needed,2024-12-30
+CSCO,"Cisco Systems, Inc.",59.61,59.98,-0.62,Decrease,237412319232,12396649,Hold (high activity),2024-12-30
+NFLX,"Netflix, Inc.",907.55,924.14,-1.8,Decrease,387939500032,3177732,No Action Needed,2024-12-30
+INTC,Intel Corporation,20.32,20.44,-0.59,Decrease,87640154112,47750090,Hold (high activity),2024-12-30
+XOM,Exxon Mobil Corporation,106.48,106.49,-0.01,Decrease,467989200896,9086933,No Action Needed,2024-12-30
+PEP,"Pepsico, Inc.",152.89,152.44,0.3,Increase,209763549184,4283520,No Action Needed,2024-12-30
+ADBE,Adobe Inc.,446.48,450.16,-0.82,Decrease,196540497920,2942580,No Action Needed,2024-12-30
+CRM,"Salesforce, Inc.",338.45,341.72,-0.96,Decrease,323896672256,2382342,No Action Needed,2024-12-30
+ORCL,Oracle Corporation,168.96,171.68,-1.58,Decrease,472574394368,3451984,No Action Needed,2024-12-30
+CVX,Chevron Corporation,144.0,143.98,0.01,Increase,256740474880,5290035,No Action Needed,2024-12-30
+ABBV,AbbVie Inc.,178.01,179.2,-0.66,Decrease,314568572928,2743044,No Action Needed,2024-12-30
+T,AT&T Inc.,22.86,22.96,-0.44,Decrease,164027138048,13971625,Hold (high activity),2024-12-30
+NKE,"Nike, Inc.",76.42,76.94,-0.68,Decrease,113751162880,5226026,No Action Needed,2024-12-30
+COST,Costco Wholesale Corporation,939.7,956.14,-1.72,Decrease,417131888640,1895513,No Action Needed,2024-12-30
+MRK,"Merck & Company, Inc.",99.7,99.87,-0.17,Decrease,252205088768,4325607,No Action Needed,2024-12-30
+CMCSA,Comcast Corporation,37.93,38.25,-0.84,Decrease,145140662272,15159100,Hold (high activity),2024-12-30
+AMD,"Advanced Micro Devices, Inc.",125.24,125.06,0.14,Increase,203240718336,32506592,Hold (high activity),2024-12-30
+ABT,Abbott Laboratories,114.99,115.27,-0.24,Decrease,199445561344,1940068,No Action Needed,2024-12-30
+LLY,Eli Lilly and Company,783.17,794.14,-1.38,Decrease,704317292544,2088174,No Action Needed,2024-12-30
+UPS,"United Parcel Service, Inc.",126.11,126.36,-0.2,Decrease,107618492416,2355026,No Action Needed,2024-12-30
+BMY,Bristol-Myers Squibb Company,57.68,58.0,-0.55,Decrease,116985421824,4999530,No Action Needed,2024-12-30
+DHR,Danaher Corporation,231.1,231.01,0.04,Increase,166917750784,2130006,No Action Needed,2024-12-30
