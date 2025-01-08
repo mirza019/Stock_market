@@ -1,0 +1,17 @@
+{
+    "scriptFile": "main.py",  // Points to the Python file
+    "bindings": [
+      {
+        "name": "req",
+        "type": "httpTrigger",  // Indicates an HTTP trigger
+        "direction": "in",
+        "authLevel": "function"  // Authentication level
+      },
+      {
+        "name": "$return",
+        "type": "http",  // Return type for HTTP responses
+        "direction": "out"
+      }
+    ]
+  }
+  
